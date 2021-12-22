@@ -1,0 +1,19 @@
+body {
+  background-color: #979da6;
+}
+
+/**Card**/
+.list-img {
+  width: 300px;
+  height: 200px;
+}
+.list-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.card {
+  max-width: 400px;
+  border-radius: 5px;
+}
