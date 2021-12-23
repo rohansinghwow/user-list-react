@@ -1,6 +1,6 @@
 # User List in React
 
-[]!(pic-1.png)
+![](pic-1.png)
 
 The default template project for [nano-react-app](https://github.com/nano-react-app/nano-react-app).
 
